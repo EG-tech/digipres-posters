@@ -16,4 +16,4 @@ Images made available for educational purposes in various formats, under a [Crea
 
 ## OS and Kernel Family Tree
 
-![](https://raw.githubusercontent.com/MIAPtech/digipres-posters/master/OS_kernal_family_tree.jpg)
+![](https://raw.githubusercontent.com/MIAPtech/digipres-posters/master/OS_kernel_family_tree.jpg)
